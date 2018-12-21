@@ -1,8 +1,6 @@
 # Daftar Repo Teknologi CLoud Terapan
 
-Dibuat oleh : Rohmatul Ummah - 163210005
-				
-### Daftar Repo :
+### Dibuat oleh : Rohmatul Ummah - 163210005
 
 Pertemuan | Nama Repo | Tanggal | Kegunaan
 --------- | --------- | ------- | --------
