@@ -1,10 +1,6 @@
 # Daftar Repo Teknologi CLoud Terapan
 
-Dibuat oleh : 	
-
-Nama 	: Rohmatul Ummah
-
-NIM 	: 163210005
+Dibuat oleh : Rohmatul Ummah - 163210005
 				
 ### Daftar Repo :
 
